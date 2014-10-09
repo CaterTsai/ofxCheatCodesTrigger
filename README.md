@@ -11,8 +11,8 @@ You can add your own "Cheat Codes" like:
 		_CheatMgr.setup(20.0);
 		
 		//add cheat codes with "Cheat Code Name" and "Cheat Code"
-		//"Cheat Code" support 'a-z', 'A-Z', '0-9', 'punctuation', 'space', and four special key like:
-		//[U]:key up, [D]:key down, [L]:key left, [R]:key right (now only support those four control key)
+		//"Cheat Code" support 'a-z', 'A-Z', '0-9', 'punctuation', 'space', and four special key:
+		//[U]:key up, [D]:key down, [L]:key left, [R]:key right
 		_CheatMgr.addCheatCodes("KONAMI!!", "[U][U][D][D][L][R][L][R]ba");
 		_CheatMgr.addCheatCodes("MONEY!!!", "give me the moneys");
 		
