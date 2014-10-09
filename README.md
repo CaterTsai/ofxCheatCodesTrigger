@@ -1,4 +1,4 @@
 ofxCheatCodesTrigger
 ====================
 
-This is a simple texting event trigger addon for openframework (0.8.1~)
+An openframeworks add-on that help you add texting event easily. Just like the game cheat codes.
